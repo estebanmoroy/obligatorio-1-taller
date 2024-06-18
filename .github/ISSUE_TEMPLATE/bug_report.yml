@@ -6,11 +6,11 @@ body:
   - type: checkboxes
     id: existing_issue
     attributes:
-    label: Hay un problema existente para esto?
-    description: Por favor, busca para ver si ya existe un issue para el bug que encontraste.
-    options:
-      - label: He buscado en los issues existentes.
-        required: true
+      label: Hay un problema existente para esto?
+      description: Por favor, busca para ver si ya existe un issue para el bug que encontraste.
+      options:
+        - label: He buscado en los issues existentes.
+          required: true
 
   - type: input
     id: title

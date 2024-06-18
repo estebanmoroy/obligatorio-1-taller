@@ -18,10 +18,10 @@
 - [X] Sección ¿Qué es GitHub?
 - [X] Sección ¿Qué es un GitHub Issue? ¿Para que sirven?
 
-- [ ] Template para Documentación - Esteban
+- [X] Template para Documentación - Bruno / Ignacio
 - [X] Template Feature Request
-- [ ] Template para Mejoras - Bruno / Ignacio
-- [ ] Template para Bugs - Esteban
+- [X] Template para Mejoras - Bruno / Ignacio
+- [X] Template para Bugs - Esteban
 - [ ] Generar 2 reportes para cada tipo de template - Bruno / Ignacio
 
 ## Tabla de Contenido

@@ -1,0 +1,80 @@
+name: Reporte de Bug
+description: Reporta un bug para ayudarnos a mejorar
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: checkboxes
+    id: existing_issue
+    attributes:
+    label: Hay un problema existente para esto?
+    description: Por favor, busca para ver si ya existe un issue para el bug que encontraste.
+    options:
+      - label: He buscado en los issues existentes.
+        required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Título del bug
+      description: Proporciona un título breve y claro para el bug.
+      placeholder: "Título del bug"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción
+      description: Proporciona una descripción detallada del problema.
+      placeholder: "Descripción detallada del bug"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducir
+      description: Enumera los pasos necesarios para reproducir el bug.
+      placeholder: |
+        1. En este entorno...
+        1. Con esta configuración...
+        1. Ejecutar '...'
+        1. Ver error...
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Comportamiento esperado
+      description: Describe qué esperabas que ocurriera.
+      placeholder: "Comportamiento esperado"
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Entorno
+      description: Describe el entorno donde se produjo el bug (sistema operativo, navegador, versión de la aplicación, etc.).
+      placeholder: "Detalles del entorno"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Capturas de pantalla
+      description: Adjunta capturas de pantalla si es posible.
+      placeholder: "Capturas de pantalla"
+    validations:
+      required: false
+
+  - type: input
+    id: additional_info
+    attributes:
+      label: Información adicional
+      description: Proporciona cualquier otra información que consideres relevante.
+      placeholder: "Información adicional"
+    validations:
+      required: false

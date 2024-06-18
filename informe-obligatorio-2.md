@@ -23,6 +23,8 @@
 - [X] Template para Mejoras - Bruno / Ignacio
 - [X] Template para Bugs - Esteban
 - [ ] Generar 2 reportes para cada tipo de template - Bruno / Ignacio
+- [ ] Agregar código .yml de los issues al reporte
+- [ ] Agregar capturas de los formualrios al reporte
 
 ## Tabla de Contenido
 

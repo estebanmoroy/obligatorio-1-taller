@@ -1,0 +1,66 @@
+name: Documentación de Proceso
+description: Utiliza este template para documentar cualquier proceso dentro de la empresa.
+title: "[DOCUMENTACIÓN] - Título descriptivo"
+labels:
+  - documentación
+body:
+  - type: textarea
+    id: process_description
+    attributes:
+      label: "Descripción del Proceso"
+      description: "Describe claramente el proceso que estás documentando."
+      placeholder: "Escribe aquí una descripción detallada del proceso."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Pasos del Proceso"
+      description: "Detalla los pasos necesarios para llevar a cabo este proceso."
+      placeholder: "Describe los pasos del proceso de manera secuencial."
+    validations:
+      required: true
+
+  - type: textarea
+    id: roles_responsibilities
+    attributes:
+      label: "Roles y Responsabilidades"
+      description: "Indica los roles involucrados en este proceso y sus responsabilidades."
+      placeholder: "Describe quiénes son los responsables de cada etapa del proceso."
+    validations:
+      required: true
+
+  - type: textarea
+    id: tools_resources
+    attributes:
+      label: "Herramientas y Recursos"
+      description: "Enumera las herramientas y recursos necesarios para ejecutar este proceso."
+      placeholder: "Incluye cualquier herramienta, software o recurso necesario."
+    validations:
+      required: true
+
+  - type: textarea
+    id: documentation_standards
+    attributes:
+      label: "Estándares de Documentación"
+      description: "Describe los estándares que deben seguirse al documentar este proceso."
+      placeholder: "Especifica cómo debe estructurarse y actualizarse la documentación."
+    validations:
+      required: true
+
+  - type: textarea
+    id: revision_history
+    attributes:
+      label: "Historial de Revisiones"
+      description: "Registra las revisiones realizadas a este documento a lo largo del tiempo."
+      placeholder: "Menciona las fechas y los cambios realizados en el proceso."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_comments
+    attributes:
+      label: "Comentarios Adicionales"
+      description: "Agrega cualquier comentario adicional relevante sobre este proceso."
+      placeholder: "Incluye cualquier información adicional que consideres importante."

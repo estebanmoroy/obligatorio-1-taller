@@ -37,7 +37,7 @@ body:
       placeholder: "Escribe aquí la prioridad (ej. 8)"
     validations:
       required: true
-      pattern: "^([1-9]|10)$"
+      pattern: ^([1-9]|10)$
       message: "Debe ser un número del 1 al 10."
 
   - type: textarea

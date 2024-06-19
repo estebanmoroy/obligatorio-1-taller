@@ -11,31 +11,16 @@
 
 [Link al repositorio](https://github.com/estebanmoroy/obligatorio-1-taller)
 
-### Cosas que faltan
-
-- [ ] Presentación PowerPoint - Todos
-
-- [X] Sección ¿Qué es GitHub?
-- [X] Sección ¿Qué es un GitHub Issue? ¿Para que sirven?
-
-- [X] Template para Documentación - Bruno / Ignacio
-- [X] Template Feature Request
-- [X] Template para Mejoras - Bruno / Ignacio
-- [X] Template para Bugs - Esteban
-- [ ] Generar 2 reportes para cada tipo de template - Bruno / Ignacio
-- [ ] Agregar código .yml de los issues al reporte
-- [ ] Agregar capturas de los formualrios al reporte
-
 ## Tabla de Contenido
 
 - [Obligatorio 2 Taller de Programación](#obligatorio-2-taller-de-programación)
-    - [Cosas que faltan](#cosas-que-faltan)
   - [Tabla de Contenido](#tabla-de-contenido)
   - [Presentación](#presentación)
     - [Presentación del problema](#presentación-del-problema)
     - [¿Qué es GitHub?](#qué-es-github)
     - [¿Qué es GitHub Issues?](#qué-es-github-issues)
     - [¿Para qué sirven los GitHub Issues?](#para-qué-sirven-los-github-issues)
+    - [Buenas Prácticas](#buenas-prácticas)
   - [Generar un repositorio de git local y subir a GitHub](#generar-un-repositorio-de-git-local-y-subir-a-github)
     - [Crear un repositorio en GitHub](#crear-un-repositorio-en-github)
     - [Opcional - Configurar clave SSH](#opcional---configurar-clave-ssh)
@@ -88,6 +73,17 @@ Discusión y Colaboración: Fomentan la discusión y colaboración entre los mie
 Documentación de Decisiones: Actúan como un registro de las decisiones tomadas durante el desarrollo del proyecto. Esto es útil para referirse en el futuro y entender por qué se tomaron ciertas decisiones.
 
 Automatización: Pueden integrarse con otras herramientas y servicios de GitHub, como GitHub Actions, para automatizar flujos de trabajo. Por ejemplo, un issue puede cerrarse automáticamente cuando se fusiona un pull request que soluciona el problema descrito en el issue.
+
+### Buenas Prácticas
+
+- **Estandarización de títulos:** Utilizar títulos claros y consistentes facilita la identificación rápida del problema o la mejora solicitada.
+- **Pasos reproducibles:** Proporcionar pasos detallados para reproducir el problema permite a los desarrolladores entender exactamente cómo se puede manifestar el error o la necesidad de mejora.
+- **Uso de etiquetas (Labels):** Las etiquetas categorizan los issues según su tipo (bug, mejora, documentación), estado (abierto, en progreso, cerrado) o prioridad (alta, media, baja), lo que ayuda a priorizar y gestionar eficazmente el trabajo.
+- **Priorización e impacto:** Especificar la prioridad y el impacto del problema o la mejora ayuda a los equipos a asignar recursos adecuadamente y abordar primero los elementos más críticos.
+- **Descripciones detalladas:** Proporcionar descripciones completas y detalladas del problema o la mejora solicitada ayuda a los desarrolladores a entender el contexto y la naturaleza del cambio necesario.
+- **Alternativas consideradas:** Incluir alternativas o enfoques sugeridos muestra que se ha pensado de manera crítica sobre la solución y puede llevar a discusiones más informadas sobre la mejor manera de abordar el problema.
+- **Contexto y justificación:** Explicar el contexto en el que se produce el problema o la razón por la cual se necesita la mejora proporciona una comprensión más profunda a los desarrolladores y a otros interesados.
+- **Documentación completa:** Mantener la documentación actualizada y accesible asegura que todos los miembros del equipo estén informados y puedan colaborar eficazmente en la resolución de problemas y mejoras.
 
 ## Generar un repositorio de git local y subir a GitHub
 

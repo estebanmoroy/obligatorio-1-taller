@@ -306,6 +306,26 @@ git push origin master
 Ahora el formulario cuenta con varios campos de texto para cada sección solicitada
 ![](capturas/issues-yaml/6.jpeg)
 
+## Templates Implementados
+
+Capturas de pantalla de los templates implementados
+
+### Bug Report
+
+![](capturas/capturas-templates/bug-report.jpeg)
+
+### Feature Request (Pedido de Funcionalidad)
+
+![](capturas/capturas-templates/feature-request.jpeg)
+
+### Documentación
+
+![](capturas/capturas-templates/documentacion.jpeg)
+
+### Pedido de Mejoras
+
+![](capturas/capturas-templates/pedido-de-mejora.jpeg)
+
 ## Fuentes
 
 [YouTube - Github Issue Templates: A Look at the New Issue Templates](https://www.youtube.com/watch?v=o3E3LwzhLcc)

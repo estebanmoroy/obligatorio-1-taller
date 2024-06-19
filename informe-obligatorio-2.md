@@ -1,9 +1,10 @@
 # Obligatorio 2 Taller de Programación
 
-**Integrantes:** 
-- Esteban Moroy - Nro. 338885
-- Bruno Riera
-- Ignacio Martínez
+**Integrantes:**
+
+- Esteban Moroy - Nro. Estudiante 338885
+- Bruno Riera - Nro. Estudiante 342022
+- Ignacio Martínez - Nro. Estudiante 263891
 
 **Grupo: N1B**
 
@@ -50,11 +51,12 @@ como ejemplificar con al menos 2 reportes cada categoría. Para el código, pued
 servirse de su entrega del Obligatorio 1, a la cual puede realizarle modificaciones.
 
 ### ¿Qué es GitHub?
+
 GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. GitHub permite a los desarrolladores trabajar en proyectos en equipo, compartir código, rastrear cambios y colaborar en el desarrollo de software.
 
 ### ¿Qué es GitHub Issues?
 
-GitHub Issues es una herramienta dentro de un repositorio de GitHub,  consiste en un registro para discutir cualquier aspecto del proyecto. Cada issue tiene su propio hilo de discusión, donde los colaboradores pueden comentar, adjuntar archivos y linkear código relacionado. Los issues pueden incluir:
+GitHub Issues es una herramienta dentro de un repositorio de GitHub, consiste en un registro para discutir cualquier aspecto del proyecto. Cada issue tiene su propio hilo de discusión, donde los colaboradores pueden comentar, adjuntar archivos y linkear código relacionado. Los issues pueden incluir:
 
 - Bugs: Reportes de errores o problemas en el código.
 - Tareas: Tareas que necesitan completarse.
@@ -62,6 +64,7 @@ GitHub Issues es una herramienta dentro de un repositorio de GitHub,  consiste e
 - Preguntas: Preguntas o discusiones sobre el proyecto.
 
 ### ¿Para qué sirven los GitHub Issues?
+
 Seguimiento de Errores (Bugs): Permiten a los usuarios y desarrolladores reportar errores que encuentran en el software, describirlos en detalle y proporcionar pasos para reproducirlos. Esto ayuda al equipo de desarrollo a identificar y solucionar problemas.
 
 Planificación de Características: Ayudan a organizar y priorizar nuevas características o mejoras. Los colaboradores pueden discutir cómo implementar una nueva característica, sugerir cambios y asignar tareas específicas a los miembros del equipo.
